@@ -1,8 +1,8 @@
----
+Tecno spark go1---
 manufacturer:
     - tecno
 
----
+ดูดหัว
 
 ## Power Saving Management
 
